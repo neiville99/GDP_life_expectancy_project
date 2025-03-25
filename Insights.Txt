@@ -1,0 +1,21 @@
+  For all countries the general trend is that life expectancy increases over time at a gradual trate. With the exception 
+being Zimbabwe, which was adecreasing in 2000 and is now increasing at the fastest  rate.
+  Gdp is either increasing at a steady consistent rate for the United States and China, and is almost unchanging for the 
+other countries.
+  The distribution of life expectancy by country highlights that with a lower life expectancy, the range of life expectancy is muoch greater. I think this would be 
+due to the factors causing life expectancy to be so low. For example certain illness may affect people of all ages, causing
+young people to pass away sooner leading to the lower values of the distribution. However, not everyone may fall victim to 
+the illness allowing for some people to live much longer than others. 
+  The other thing to note is that for most countries the distrubution of life expectancy is small, regardless of the 
+distribution of GDP.
+  
+  The summary statistics reveal significant disparities in both GDP and life expectancy across countries. Wealthier nations 
+such as the United States, Germany, and China exhibit higher life expectancy, with Germany having the highest average 
+(79.66 years). In contrast, Zimbabwe has the lowest life expectancy (50.09 years on average) and the highest variability, 
+likely reflecting economic and healthcare challenges.
+  GDP varies drastically, with the United States leading at an average of $14 trillion, while Zimbabwe has the lowest at
+approximately $9 billion. The correlation analysis (0.34) suggests a positive relationship between GDP and life expectancy, 
+indicating that economic prosperity may contribute to improved healthcare and living conditions. However, the moderate 
+strength of this correlation implies other factors, such as government policies and social development, also play a role.
+
+  
